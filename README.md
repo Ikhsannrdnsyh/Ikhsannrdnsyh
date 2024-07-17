@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mochamad Ikhsan Nurdiansyah</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Laravel,javascript**
+- 🌱 I’m currently learning **Laravel,Swift**
 
 - 📫 How to reach me **ikhsannurdiansyah78@gmail.com**
 
